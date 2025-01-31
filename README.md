@@ -1,2 +1,2 @@
 # deeplearning-at-pytorch
-개념 설명은 wiki에 있습니다.
+The concept is explained in the wiki.
